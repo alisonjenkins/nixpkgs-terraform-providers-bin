@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "96d390b6aee1a993cdd67eb1b926e96c2d49923ed1e2360273b547521faf52ba",
+      "url": "https://github.com/aiyor-tf/terraform-provider-jose/releases/download/v0.1.0/terraform-provider-jose_0.1.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "8eb1c2061b9a803953c8b74306757e276844894e7192ee3ef76764635a78407d",
+      "url": "https://github.com/aiyor-tf/terraform-provider-jose/releases/download/v0.1.0/terraform-provider-jose_0.1.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "5d09cf920001122e07782cb294f0c386d0aa98a5f5580be07046ad01439edcdb",
+      "url": "https://github.com/aiyor-tf/terraform-provider-jose/releases/download/v0.1.0/terraform-provider-jose_0.1.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "e80e3778bc0b351c1704888d120cf57290da278a03c05775c047d8d847f8b346",
+      "url": "https://github.com/aiyor-tf/terraform-provider-jose/releases/download/v0.1.0/terraform-provider-jose_0.1.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "5998ad5d78a81d3705587833c2465d2e5309aa9e91c85ef401db6508a84cb238",
+      "url": "https://github.com/aiyor-tf/terraform-provider-jose/releases/download/v0.1.0/terraform-provider-jose_0.1.0_linux_amd64.zip"
+    }
+  },
+  "owner": "aiyor-tf",
+  "repo": "jose",
+  "version": "0.1.0"
+}
